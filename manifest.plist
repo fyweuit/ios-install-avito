@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string></string>
+                        <string>https://downloader.disk.yandex.ru/disk/186e3ca24e21e539f8d2e5d030731d94b74ecea11c1c4f21217eb6f7eea66e5a/696a8f68/USoZgYoXEUi1DYsrlN4WbBXWLpyQmxdCsBDB5PJ0brF1VSzq7QUZ6FGwK5mH0zMAD38X_5ITNlY5BsJV9N8OpQ%3D%3D?uid=0&amp;filename=%D0%90%D0%B2%D0%B8%D1%82%D0%BE%20200.5.ipa&amp;disposition=attachment&amp;hash=wNl7xlunN3edMKgkbBs7bNIrSiW3VdcQ3gJviM401ZhHig5XMdTr%2B45o0mK4gpnjq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A&amp;limit=0&amp;content_type=application%2Fzip&amp;owner_uid=773676919&amp;fsize=843682937&amp;hid=85ddf70eef17256b09b44eee42c29a3c&amp;media_type=compressed&amp;tknv=v3</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -23,7 +23,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>Авито<string>
+                    <string>Авито</string>
                 </dict>
             </dict>
         </array>
